@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Kanishka - CSE Student</title>
+
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            background: #f2f6ff;
+            color: #222;
+        }
+
+        header {
+            background: #2563eb;
+            color: white;
+            text-align: center;
+            padding: 50px;
+        }
+
+        header h1 {
+            font-size: 40px;
+        }
+
+        section {
+            max-width: 800px;
+            margin: 30px auto;
+            padding: 30px;
+            background: white;
+            border-radius: 15px;
+        }
+
+        h2 {
+            color: #2563eb;
+        }
+
+        p {
+            font-size: 18px;
+            line-height: 1.7;
+        }
+
+        footer {
+            text-align: center;
+            background: #2563eb;
+            color: white;
+            padding: 20px;
+        }
+    </style>
+</head>
+
+<body>
+
+<header>
+    <h1>Hi, I'm Kanishka</h1>
+    <p>Computer Science Engineering Student</p>
+</header>
+
+<section>
+    <h2>About Me</h2>
+    <p>
+        Hello! I am Kanishka, a Computer Science Engineering student.
+        I am interested in programming, technology and web development.
+        I enjoy learning new things and improving my technical skills.
+    </p>
+</section>
+
+<section>
+    <h2>My Career</h2>
+    <p>
+        My career goal is to become a successful software developer.
+        I want to develop my programming skills, create useful projects
+        and build a successful career in the IT industry.
+    </p>
+</section>
+
+<section>
+    <h2>My Skills</h2>
+    <p>
+        • HTML & CSS<br>
+        • Python<br>
+        • Java<br>
+        • Web Development<br>
+        • Problem Solving
+    </p>
+</section>
+
+<section>
+    <h2>My Goal</h2>
+    <p>
+        My goal is to continuously learn new technologies,
+        build real-world projects and become a skilled CSE professional.
+    </p>
+</section>
+
+<footer>
+    <p>© 2026 Kanishka | CSE Student</p>
+</footer>
+
+</body>
+</html>
